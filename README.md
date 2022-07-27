@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://giphy.com/gifs/M9kgjEsLG6LMbYC9dl" width="200" />
+    <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="200" />
     <h1 align="center">Hola 👋, soy Jose Caicedo</h1>
     <h3 align="center">Desarrollador Frontend, hago que tus diseños webs vivan y hablen con negocio (backend). Y sí, también soy agrónomo fotogrametrista y que sabe de SIG (Sistema de información geográfico). </h3>
 </div>
